@@ -1,0 +1,18 @@
+%macro SmokeOnTheWater;
+   data _null_;
+      do i = 1 to 2;
+         CALL SOUND(311.127,300); 
+         CALL SOUND(349.228,280); 
+         CALL SOUND(391.995 ,400); 
+         CALL SOUND(311.127,280); 
+         CALL SOUND(349.228,200); 
+         CALL SOUND(415.305 ,150);
+         CALL SOUND(391.995 ,500);
+         CALL SOUND(311.127,300); 
+         CALL SOUND(349.228,280); 
+         CALL SOUND(391.995 ,400);
+         CALL SOUND(349.228,280); 
+        CALL SOUND(311.127,850);
+      end;
+   run; 
+%mend SmokeOnTheWater;

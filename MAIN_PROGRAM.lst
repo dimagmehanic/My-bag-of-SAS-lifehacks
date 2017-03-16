@@ -1,0 +1,25 @@
+Association between emergent VAERS and number of taken vaccinations.                                                                                                                                                          18:29 Thursday, March 16, 2017   1
+Populations infants in age 12-23 month.
+
+                                                            Chi-     Cramer's
+Obs    Vaccines                                            Square       V²         Odds Ratio³ ( 95% CI )      p-value¹
+
+  1    Chickenpox                                          61.70       0.24       4.260 ( 2.905  , 6.248  )     <.0001 
+  2    Chickenpox,Measles,Mumps,Rubella                     0.88       0.06       1.324 ( 0.735  , 2.385  )     0.3500 
+  3    Diphtheria,Haemophilus b,Pertussis,Polio,Tetanus     0.44       0.09       1.530 ( 0.434  , 5.401  )     0.5100 
+  4    Diphtheria,Hepatitis B,Pertussis,Polio,Tetanus       2.43       0.16       2.799 ( 0.737  , 10.626 )     0.1200 
+  5    Diphtheria,Pertussis,Polio,Tetanus                  12.39       0.26       4.370 ( 1.835  , 10.407 )     <.0001 
+  6    Diphtheria,Pertussis,Tetanus                        10.94       0.12       1.909 ( 1.296  , 2.812  )     <.0001 
+  7    Haemophilus b                                       57.97       0.27      13.428 ( 5.793  , 31.124 )     <.0001 
+  8    Hepatitis A                                          6.45       0.09       1.693 ( 1.124  , 2.550  )     0.0100 
+  9    Hepatitis B                                          4.44       0.24       4.833 ( 1.001  , 23.344 )     0.0400 
+ 10    Influenza                                           22.61       0.21       2.871 ( 1.840  , 4.482  )     <.0001 
+ 11    Measles,Mumps,Rubella                               15.53       0.12       1.873 ( 1.367  , 2.567  )     <.0001 
+ 12    Pneumococcal                                        11.41       0.12       2.511 ( 1.449  , 4.350  )     <.0001 
+ 
+ 
+ 
+ 
+¹Corresponding p-value for Chi-Square statistic.
+²the strenght measure of the assosiations that the Chi-Square test detected.
+³the odds of emergent vaccination when it was received multiple vaccines to one vaccine.
