@@ -1,0 +1,515 @@
+VAERS_ID,SYMPTOM1,SYMPTOMVERSION1,SYMPTOM2,SYMPTOMVERSION2,SYMPTOM3,SYMPTOMVERSION3,SYMPTOM4,SYMPTOMVERSION4,SYMPTOM5,SYMPTOMVERSION5
+676017,Abasia,19.10,Arthritis infective,19.10,Aspiration joint,19.10,Bacterial infection,19.10,Bacterial test positive,19.10
+676017,Blood test,19.10,C-reactive protein,19.10,Gait disturbance,19.10,Injection site swelling,19.10,Red blood cell sedimentation rate,19.10
+676017,Surgery,19.10,Ultrasound scan,19.10,X-ray,19.10,,,,
+676019,Injection site reaction,19.10,Injection site reaction,19.10,Musculoskeletal stiffness,19.10,Pain,19.10,,
+676021,Pruritus,19.10,Rash generalised,19.10,,,,,,
+676022,Paraesthesia,19.10,,,,,,,,
+676024,Blood test,19.10,Bronchial hyperreactivity,19.10,Bronchoscopy,19.10,Cardiac failure,19.10,Computerised tomogram,19.10
+676024,Cough,19.10,Endotracheal intubation,19.10,Gastrointestinal tube insertion,19.10,Intensive care,19.10,Medical induction of coma,19.10
+676024,Nuclear magnetic resonance imaging,19.10,Respiration abnormal,19.10,Respiratory disorder,19.10,Respiratory failure,19.10,Resuscitation,19.10
+676024,Viral test negative,19.10,,,,,,,,
+676025,Complex partial seizures,19.10,Decreased eye contact,19.10,Developmental delay,19.10,Dyskinesia,19.10,Failure to thrive,19.10
+676025,Hypotonia,19.10,Infantile spasms,19.10,Partial seizures,19.10,Seizure,19.10,,
+676028,Abdominal pain,19.10,Fatigue,19.10,Flushing,19.10,Gait disturbance,19.10,Nausea,19.10
+676028,Neck mass,19.10,,,,,,,,
+676029,Injection site pain,19.10,Pain,19.10,,,,,,
+676056,Albumin CSF,19.10,Anion gap,19.10,Back pain,19.10,Back pain,19.10,Basophil count normal,19.10
+676056,Basophil percentage,19.10,Blood calcium normal,19.10,Blood chloride normal,19.10,Blood creatine normal,19.10,Blood potassium normal,19.10
+676056,Blood sodium normal,19.10,Blood urea normal,19.10,CSF glucose normal,19.10,CSF immunoglobulin,19.10,CSF lymphocyte count normal,19.10
+676056,CSF monocyte count decreased,19.10,CSF neutrophil count increased,19.10,CSF protein normal,19.10,CSF test normal,19.10,Carbon dioxide normal,19.10
+676056,Chills,19.10,Eosinophil count normal,19.10,Eosinophil percentage,19.10,Full blood count,19.10,Gram stain negative,19.10
+676056,Haematocrit decreased,19.10,Haemoglobin decreased,19.10,Hypoaesthesia,19.10,Investigation,19.10,Lymphocyte count normal,19.10
+676056,Lymphocyte percentage,19.10,Mean cell haemoglobin normal,19.10,Mean cell volume normal,19.10,Mean platelet volume normal,19.10,Monocyte count normal,19.10
+676056,Monocyte percentage,19.10,Muscular weakness,19.10,Myalgia,19.10,Nausea,19.10,Neutrophil count normal,19.10
+676056,Neutrophil percentage,19.10,Pain,19.10,Pain,19.10,Pain,19.10,Pain in extremity,19.10
+676056,Paraesthesia,19.10,Platelet count normal,19.10,Protein total normal,19.10,Red blood cell count decreased,19.10,Red blood cell morphology normal,19.10
+676056,Red cell distribution width normal,19.10,White blood cell count normal,19.10,,,,,,
+676059,Dizziness,19.10,Feeling abnormal,19.10,,,,,,
+676062,Dehydration,19.10,Malaise,19.10,Muscle spasms,19.10,,,,
+676064,Anaphylactic reaction,19.10,,,,,,,,
+676066,Infection,19.10,Injection site erythema,19.10,Vaccination site bruising,19.10,Vaccination site induration,19.10,Vaccination site pain,19.10
+676066,Vaccination site swelling,19.10,,,,,,,,
+676067,Headache,19.10,,,,,,,,
+676073,Immunoglobulin therapy,19.10,Paraesthesia,19.10,,,,,,
+676074,Cyanosis,19.10,Peripheral swelling,19.10,,,,,,
+676089,Abdominal discomfort,19.10,Dizziness,19.10,Eye swelling,19.10,Herpes zoster,19.10,Lip swelling,19.10
+676089,Photophobia,19.10,Rash,19.10,,,,,,
+676090,Asthenia,19.10,Cough,19.10,Injected limb mobility decreased,19.10,Injection site induration,19.10,Injection site pain,19.10
+676090,Respiratory tract congestion,19.10,Sinus pain,19.10,,,,,,
+676091,Ear pain,19.10,Neck pain,19.10,Tenderness,19.10,,,,
+676094,Injection site pain,19.10,,,,,,,,
+676095,Arthralgia,19.10,Dyspnoea,19.10,Glassy eyes,19.10,Headache,19.10,Impaired work ability,19.10
+676095,Influenza A virus test positive,19.10,Lacrimation increased,19.10,Mobility decreased,19.10,Pain,19.10,Pyrexia,19.10
+676095,Rhinorrhoea,19.10,Sneezing,19.10,,,,,,
+676097,Erythema,19.10,Nausea,19.10,Skin warm,19.10,Swelling,19.10,Vomiting,19.10
+676101,Erythema,19.10,Injection site erythema,19.10,Injection site warmth,19.10,Nausea,19.10,Pruritus,19.10
+676101,Pyrexia,19.10,Urticaria,19.10,Vomiting,19.10,,,,
+676103,Injection site pain,19.10,,,,,,,,
+676104,Blood test,19.10,Electroencephalogram abnormal,19.10,Eye movement disorder,19.10,Generalised tonic-clonic seizure,19.10,Nuclear magnetic resonance imaging brain,19.10
+676104,Partial seizures,19.10,Specialist consultation,19.10,Tremor,19.10,,,,
+676105,Crying,19.10,Eczema,19.10,Emotional distress,19.10,Head banging,19.10,Irritability,19.10
+676105,Pyrexia,19.10,,,,,,,,
+676118,No adverse event,19.10,Product preparation error,19.10,,,,,,
+676161,Cleft palate,19.10,Congenital anomaly,19.10,Foetal exposure during pregnancy,19.10,,,,
+676162,Myocardial infarction,19.10,,,,,,,,
+676165,Myalgia,19.10,Pain in extremity,19.10,,,,,,
+676167,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,,,,
+676168,Injection site erythema,19.10,Injection site swelling,19.10,Injection site warmth,19.10,,,,
+676172,Exposure during pregnancy,19.10,Foetal death,19.10,Stillbirth,19.10,,,,
+676175,Exposure during pregnancy,19.10,Neoplasm,19.10,,,,,,
+676195,Exposure during pregnancy,19.10,Genitourinary symptom,19.10,,,,,,
+676196,Congenital anomaly,19.10,Foetal exposure during pregnancy,19.10,Laryngomalacia,19.10,,,,
+676208,Injection site pain,19.10,Pain,19.10,Pain in extremity,19.10,X-ray normal,19.10,,
+676210,Circulatory collapse,19.10,Resuscitation,19.10,Shock,19.10,,,,
+676211,Circulatory collapse,19.10,Resuscitation,19.10,Shock,19.10,,,,
+676213,Pruritus generalised,19.10,Rash generalised,19.10,Rash pruritic,19.10,Urticaria,19.10,,
+676248,Asthenia,19.10,Deafness,19.10,Dizziness,19.10,Ear swelling,19.10,Nausea,19.10
+676248,Nuclear magnetic resonance imaging normal,19.10,Pyrexia,19.10,Tinnitus,19.10,,,,
+676249,Contusion,19.10,Immediate post-injection reaction,19.10,Pain in extremity,19.10,Peripheral swelling,19.10,Skin warm,19.10
+676257,Hyperhidrosis,19.10,Pain,19.10,Pulse abnormal,19.10,Unresponsive to stimuli,19.10,,
+676259,Injection site reaction,19.10,Rash,19.10,Rash erythematous,19.10,,,,
+676288,Pruritus,19.10,Rash generalised,19.10,,,,,,
+676289,Diarrhoea,19.10,Malaise,19.10,Nausea,19.10,Pyrexia,19.10,,
+676296,Congenital anomaly,19.10,Foetal exposure during pregnancy,19.10,,,,,,
+676299,Foetal exposure during pregnancy,19.10,Neonatal hypoxia,19.10,,,,,,
+676302,No adverse event,19.10,Underdose,19.10,,,,,,
+676303,Back pain,19.10,Chest pain,19.10,Joint range of motion decreased,19.10,Neck pain,19.10,Pain,19.10
+676303,Pain in extremity,19.10,,,,,,,,
+676314,Guillain-Barre syndrome,19.10,Headache,19.10,Immunoglobulin therapy,19.10,Influenza,19.10,Lumbar puncture,19.10
+676314,Malaise,19.10,Nuclear magnetic resonance imaging,19.10,Paralysis,19.10,,,,
+676319,Injected limb mobility decreased,19.10,Injection site induration,19.10,Injection site swelling,19.10,Injection site warmth,19.10,Pain in extremity,19.10
+676340,Amputation,19.10,Blood immunoglobulin A decreased,19.10,Blood immunoglobulin G decreased,19.10,Blood immunoglobulin M decreased,19.10,Diarrhoea,19.10
+676340,Gangrene,19.10,Intensive care,19.10,Platelet count decreased,19.10,Pneumococcal sepsis,19.10,Pneumonia streptococcal,19.10
+676340,Purpura fulminans,19.10,Pyrexia,19.10,Respiratory tract infection,19.10,Streptococcal bacteraemia,19.10,Vaccination failure,19.10
+676340,Vomiting,19.10,,,,,,,,
+676381,Malaise,19.10,Pulse abnormal,19.10,Seizure,19.10,Unresponsive to stimuli,19.10,,
+676382,Hypoaesthesia,19.10,Injection site pain,19.10,Pain,19.10,Pain,19.10,Paraesthesia,19.10
+676389,Death,19.10,,,,,,,,
+676390,Arthritis,19.10,Burning sensation,19.10,Condition aggravated,19.10,Mobility decreased,19.10,Musculoskeletal pain,19.10
+676390,Neck pain,19.10,Rotator cuff syndrome,19.10,Tendon disorder,19.10,X-ray limb abnormal,19.10,,
+676391,Arthralgia,19.10,Back pain,19.10,Blood test,19.10,Computerised tomogram,19.10,Hypertension,19.10
+676391,Injection site pain,19.10,Injection site swelling,19.10,Muscle spasms,19.10,Myalgia,19.10,Neck pain,19.10
+676391,Nuclear magnetic resonance imaging,19.10,,,,,,,,
+676392,Computerised tomogram,19.10,Muscle atrophy,19.10,,,,,,
+676393,Eyelid oedema,19.10,Swelling face,19.10,,,,,,
+676394,Asthenia,19.10,Decreased appetite,19.10,Pain in extremity,19.10,Rash,19.10,Weight decreased,19.10
+676396,Varicella post vaccine,19.10,,,,,,,,
+676399,Immediate post-injection reaction,19.10,Mass,19.10,Mobility decreased,19.10,Pain,19.10,,
+676400,Complex regional pain syndrome,19.10,Disturbance in attention,19.10,Fibromyalgia,19.10,Gait disturbance,19.10,Gait disturbance,19.10
+676400,Hemiplegia,19.10,Hypersensitivity,19.10,Neurological symptom,19.10,Sedation,19.10,Weight decreased,19.10
+676400,Weight increased,19.10,,,,,,,,
+676450,Hypersensitivity,19.10,Immediate post-injection reaction,19.10,Injection site pain,19.10,Rash,19.10,Rash pruritic,19.10
+676454,Altered state of consciousness,19.10,Blood alcohol,19.10,Computerised tomogram head,19.10,Drug screen,19.10,Fall,19.10
+676454,Full blood count,19.10,Haemoglobin,19.10,Head injury,19.10,Metabolic function test,19.10,Syncope,19.10
+676454,Urine analysis,19.10,,,,,,,,
+676480,Influenza,19.10,,,,,,,,
+676503,Abasia,19.10,Cellulitis,19.10,Chills,19.10,Decreased appetite,19.10,Dehydration,19.10
+676503,Diarrhoea,19.10,Erythema,19.10,Fatigue,19.10,Headache,19.10,Hemiplegia,19.10
+676503,Injected limb mobility decreased,19.10,Injection site erythema,19.10,Nausea,19.10,Pain,19.10,Pain in extremity,19.10
+676503,Peripheral swelling,19.10,Pyrexia,19.10,Urinary tract infection,19.10,Vomiting,19.10,,
+676504,Hypoaesthesia,19.10,Neuralgia,19.10,Neuralgic amyotrophy,19.10,Nuclear magnetic resonance imaging,19.10,,
+676505,Acute kidney injury,19.10,Blood bilirubin increased,19.10,Blood creatinine increased,19.10,Blood pressure decreased,19.10,Blood smear test normal,19.10
+676505,Cardiac arrest,19.10,Chills,19.10,Chronic kidney disease,19.10,Clostridium test negative,19.10,Diarrhoea,19.10
+676505,Endotracheal intubation,19.10,Headache,19.10,Hypophagia,19.10,Hypotension,19.10,Influenza like illness,19.10
+676505,Jaundice,19.10,Life support,19.10,Malaise,19.10,Metabolic acidosis,19.10,Multiple organ dysfunction syndrome,19.10
+676505,Myalgia,19.10,Pain,19.10,Platelet count decreased,19.10,Pulmonary congestion,19.10,Pulseless electrical activity,19.10
+676505,Pyrexia,19.10,Renal tubular necrosis,19.10,Sinus tachycardia,19.10,Thrombocytopenia,19.10,,
+676511,Rash,19.10,,,,,,,,
+676512,Alopecia totalis,19.10,Pityriasis rosea,19.10,,,,,,
+676529,Infection,19.10,Injection site cellulitis,19.10,,,,,,
+676557,Erythema,19.10,Peripheral swelling,19.10,Skin warm,19.10,Tenderness,19.10,,
+676558,Asthenia,19.10,Dyspnoea exertional,19.10,,,,,,
+676560,Eyelid oedema,19.10,Vision blurred,19.10,,,,,,
+676563,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,,,,
+676569,Amnesia,19.10,Autonomic nervous system imbalance,19.10,Biopsy skin abnormal,19.10,Dizziness,19.10,Dizziness,19.10
+676569,Dyspnoea,19.10,Fatigue,19.10,Malaise,19.10,Musculoskeletal disorder,19.10,Nervous system disorder,19.10
+676569,Palpitations,19.10,Paraesthesia,19.10,Paraesthesia,19.10,Small fibre neuropathy,19.10,Tilt table test positive,19.10
+676578,Headache,19.10,Influenza,19.10,Influenza A virus test positive,19.10,Pyrexia,19.10,Vomiting,19.10
+676579,Circumstance or information capable of leading to medication error,19.10,Nasopharyngitis,19.10,Rhinorrhoea,19.10,,,,
+676580,Circumstance or information capable of leading to medication error,19.10,Nasopharyngitis,19.10,Rhinorrhoea,19.10,,,,
+676594,Abdominal distension,19.10,Abdominal pain,19.10,Acute kidney injury,19.10,Alanine aminotransferase increased,19.10,Alpha 1 foetoprotein increased,19.10
+676594,Aspartate aminotransferase increased,19.10,Biopsy liver abnormal,19.10,Blood bilirubin increased,19.10,Chronic hepatitis B,19.10,Computerised tomogram liver abnormal,19.10
+676594,Death,19.10,Echocardiogram abnormal,19.10,Endotracheal intubation,19.10,General physical health deterioration,19.10,HIV test negative,19.10
+676594,Haemoglobin decreased,19.10,Hepatic cirrhosis,19.10,Hepatic failure,19.10,Hepatic lesion,19.10,Hepatic mass,19.10
+676594,Hepatitis B DNA assay positive,19.10,Hepatitis B e antigen positive,19.10,Hepatitis B surface antibody negative,19.10,Hepatitis C test negative,19.10,Hepatocellular carcinoma,19.10
+676594,Hepatomegaly,19.10,Hepatopulmonary syndrome,19.10,Hyperbilirubinaemia,19.10,Inappropriate schedule of drug administration,19.10,Laboratory test normal,19.10
+676594,Liver palpable,19.10,Mean cell volume decreased,19.10,Microcytic anaemia,19.10,Multiple organ dysfunction syndrome,19.10,Ocular icterus,19.10
+676594,Oedema peripheral,19.10,Palmar erythema,19.10,Respiratory failure,19.10,Scan with contrast abnormal,19.10,Splenomegaly,19.10
+676594,Ultrasound abdomen abnormal,19.10,Vaccination failure,19.10,Vertical infection transmission,19.10,,,,
+676600,Injection site hypersensitivity,19.10,Injection site pruritus,19.10,Injection site swelling,19.10,Pain,19.10,,
+676603,Blood culture negative,19.10,CSF culture negative,19.10,Chills,19.10,Chills,19.10,Enterovirus test negative,19.10
+676603,Headache,19.10,Hyperhidrosis,19.10,Influenza virus test negative,19.10,Polymerase chain reaction,19.10,Pyrexia,19.10
+676606,Fatigue,19.10,Injection site erythema,19.10,Injection site rash,19.10,Injection site warmth,19.10,Malaise,19.10
+676606,Malaise,19.10,Nausea,19.10,,,,,,
+676607,Rash,19.10,,,,,,,,
+676613,Pain in extremity,19.10,,,,,,,,
+676614,Erythema,19.10,Head injury,19.10,Syncope,19.10,,,,
+676617,Fibromyalgia,19.10,Myalgia,19.10,,,,,,
+676619,Injection site pain,19.10,Pain,19.10,,,,,,
+676623,Syncope,19.10,,,,,,,,
+676626,Erythema,19.10,Injection site swelling,19.10,Peripheral swelling,19.10,,,,
+676630,Injection site erythema,19.10,Injection site swelling,19.10,Injection site warmth,19.10,Skin warm,19.10,,
+676631,Myalgia,19.10,,,,,,,,
+676653,Induration,19.10,Peripheral swelling,19.10,,,,,,
+676663,Injection site haematoma,19.10,,,,,,,,
+676664,Rash,19.10,,,,,,,,
+676671,Drug administered to patient of inappropriate age,19.10,No adverse event,19.10,,,,,,
+676722,Back pain,19.10,Insomnia,19.10,Mobility decreased,19.10,Musculoskeletal pain,19.10,Myalgia,19.10
+676722,Myalgia,19.10,,,,,,,,
+676723,Cardiac stress test,19.10,Cough,19.10,Muscle spasms,19.10,Scan,19.10,Wheezing,19.10
+676724,Carpal tunnel syndrome,19.10,Hypoaesthesia,19.10,Laboratory test abnormal,19.10,Pain,19.10,Pain in extremity,19.10
+676724,Paraesthesia,19.10,Peripheral swelling,19.10,Peripheral swelling,19.10,,,,
+676731,Erythema,19.10,Fatigue,19.10,Pain in extremity,19.10,Pyrexia,19.10,Swelling,19.10
+676732,Febrile convulsion,19.10,Laboratory test normal,19.10,Rash,19.10,Viral test negative,19.10,,
+676740,Anion gap,19.10,Anxiety,19.10,Blood urea increased,19.10,Carbon dioxide decreased,19.10,Electrocardiogram T wave abnormal,19.10
+676740,Hypoaesthesia,19.10,Nuclear magnetic resonance imaging normal,19.10,Sinus tachycardia,19.10,Tremor,19.10,,
+676758,Influenza,19.10,Pneumonia,19.10,,,,,,
+676763,Pain in extremity,19.10,,,,,,,,
+676772,Anaemia,19.10,Blood alkaline phosphatase increased,19.10,Body temperature increased,19.10,Constipation,19.10,Crying,19.10
+676772,Decreased appetite,19.10,Flatulence,19.10,Hepatomegaly,19.10,Irritability,19.10,Lethargy,19.10
+676777,Vaccination error,19.10,,,,,,,,
+676778,Wrong drug administered,19.10,,,,,,,,
+676780,Axillary mass,19.10,Erythema,19.10,Tenderness,19.10,,,,
+676781,Incorrect dose administered,19.10,,,,,,,,
+676782,Dizziness,19.10,Dizziness,19.10,Immediate post-injection reaction,19.10,,,,
+676783,Inappropriate schedule of drug administration,19.10,,,,,,,,
+676784,Abdominal discomfort,19.10,Chest discomfort,19.10,Crying,19.10,Decreased appetite,19.10,Depressed mood,19.10
+676784,Depressed mood,19.10,Depression,19.10,Irritability,19.10,Panic reaction,19.10,,
+676786,Crying,19.10,Fall,19.10,Head injury,19.10,Headache,19.10,Musculoskeletal stiffness,19.10
+676786,Seizure like phenomena,19.10,Syncope,19.10,Unresponsive to stimuli,19.10,Urinary incontinence,19.10,,
+676790,Needle issue,19.10,,,,,,,,
+676793,Erythema,19.10,,,,,,,,
+676795,Musculoskeletal pain,19.10,Pain in extremity,19.10,,,,,,
+676824,Drug administered at inappropriate site,19.10,Pain,19.10,Pain,19.10,,,,
+676835,Headache,19.10,Injection site urticaria,19.10,Nausea,19.10,Pain in extremity,19.10,Pruritus,19.10
+676835,Pyrexia,19.10,,,,,,,,
+676868,Abnormal behaviour,19.10,CSF test,19.10,Fatigue,19.10,Full blood count,19.10,Hypophagia,19.10
+676868,Pyrexia,19.10,Somnolence,19.10,Urine analysis,19.10,Urine output decreased,19.10,,
+676870,Injection site pain,19.10,X-ray limb normal,19.10,,,,,,
+676873,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Nausea,19.10,,
+676874,Confusional state,19.10,Dizziness,19.10,Dizziness,19.10,Dyspnoea,19.10,Insomnia,19.10
+676874,Laboratory test,19.10,Tremor,19.10,,,,,,
+676875,Body temperature increased,19.10,Malaise,19.10,Pyrexia,19.10,,,,
+676876,Contusion,19.10,Haematoma,19.10,Musculoskeletal pain,19.10,,,,
+676877,Erythema,19.10,Injection site swelling,19.10,,,,,,
+676880,Impaired work ability,19.10,Injected limb mobility decreased,19.10,Injection site pain,19.10,,,,
+676882,Urticaria,19.10,,,,,,,,
+676883,Pruritus,19.10,Pruritus,19.10,,,,,,
+676884,Local swelling,19.10,Pain of skin,19.10,Swelling face,19.10,,,,
+676885,Injection site joint movement impairment,19.10,Injection site pain,19.10,Pain in extremity,19.10,,,,
+676890,Activities of daily living impaired,19.10,Arthralgia,19.10,Back pain,19.10,Decreased appetite,19.10,Depression,19.10
+676890,Discomfort,19.10,Eye pain,19.10,Fatigue,19.10,Gait disturbance,19.10,Injection site mass,19.10
+676890,Injection site pain,19.10,Joint stiffness,19.10,Limb discomfort,19.10,Mobility decreased,19.10,Muscle spasms,19.10
+676890,Musculoskeletal discomfort,19.10,Musculoskeletal discomfort,19.10,Musculoskeletal pain,19.10,Nausea,19.10,Pain,19.10
+676890,Pain in extremity,19.10,Pain in extremity,19.10,Polymyalgia rheumatica,19.10,Pyrexia,19.10,Sleep disorder,19.10
+676890,Vaccination complication,19.10,,,,,,,,
+676893,Asthenia,19.10,Confusional state,19.10,Pallor,19.10,Posture abnormal,19.10,Throat irritation,19.10
+676893,Unresponsive to stimuli,19.10,,,,,,,,
+676921,Electromyogram abnormal,19.10,Hypoaesthesia,19.10,Muscle spasms,19.10,Radiculitis brachial,19.10,,
+676924,Asthenia,19.10,Headache,19.10,Inflammation,19.10,Injected limb mobility decreased,19.10,Injection site pain,19.10
+676924,Musculoskeletal pain,19.10,,,,,,,,
+676938,Cellulitis,19.10,Drug administered at inappropriate site,19.10,,,,,,
+676943,Allergy to vaccine,19.10,,,,,,,,
+676944,Cerebral disorder,19.10,Encephalitis post immunisation,19.10,Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection,19.10,,,,
+676967,Crying,19.10,Depressed level of consciousness,19.10,Pallor,19.10,Pallor,19.10,Unresponsive to stimuli,19.10
+676976,Abdominal pain,19.10,Anaemia,19.10,Arthralgia,19.10,Back pain,19.10,Fatigue,19.10
+676976,Haemoglobin decreased,19.10,Headache,19.10,Hypertension,19.10,Inflammatory marker increased,19.10,Joint swelling,19.10
+676976,Lymphadenopathy,19.10,Menstrual disorder,19.10,Neck pain,19.10,Temperature intolerance,19.10,Weight increased,19.10
+677004,Injected limb mobility decreased,19.10,Injection site pain,19.10,,,,,,
+677021,Autonomic nervous system imbalance,19.10,Blood calcium increased,19.10,Blood creatine phosphokinase increased,19.10,Blood creatinine increased,19.10,Blood potassium normal,19.10
+677021,Blood pressure decreased,19.10,Blood sodium normal,19.10,Blood urea increased,19.10,Brain injury,19.10,Carbon dioxide decreased,19.10
+677021,Death,19.10,Electroencephalogram abnormal,19.10,Endotracheal intubation,19.10,General physical health deterioration,19.10,Hypermagnesaemia,19.10
+677021,Hypotension,19.10,Mobility decreased,19.10,Muscle spasms,19.10,Nuchal rigidity,19.10,Oxygen saturation normal,19.10
+677021,Pupil fixed,19.10,Salivary hypersecretion,19.10,Tetanus,19.10,Trismus,19.10,Trismus,19.10
+677021,Urine output decreased,19.10,,,,,,,,
+677022,Paralysis,19.10,,,,,,,,
+677048,Injection site pain,19.10,,,,,,,,
+677053,Ear pain,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Injection site warmth,19.10
+677053,Neck pain,19.10,,,,,,,,
+677054,Cough,19.10,Wheezing,19.10,,,,,,
+677058,Dizziness,19.10,Erythema,19.10,Fatigue,19.10,Headache,19.10,Heart rate increased,19.10
+677058,Injection site pain,19.10,Local swelling,19.10,Musculoskeletal stiffness,19.10,Nausea,19.10,Pyrexia,19.10
+677058,Rash macular,19.10,,,,,,,,
+677061,Exposure during pregnancy,19.10,,,,,,,,
+677062,Unevaluable event,19.10,,,,,,,,
+677063,Seizure,19.10,,,,,,,,
+677070,Asthenia,19.10,Chemotherapy,19.10,Ovarian germ cell teratoma,19.10,,,,
+677106,Loss of consciousness,19.10,Seizure,19.10,,,,,,
+677109,Activities of daily living impaired,19.10,C-reactive protein normal,19.10,Differential white blood cell count normal,19.10,Full blood count normal,19.10,Headache,19.10
+677109,Injection site pain,19.10,Injury,19.10,Nuclear magnetic resonance imaging abnormal,19.10,Oedema,19.10,Pain,19.10
+677109,Poor quality sleep,19.10,Red blood cell sedimentation rate normal,19.10,,,,,,
+677110,Injection site swelling,19.10,,,,,,,,
+677139,Injection site discolouration,19.10,Injection site induration,19.10,Injection site pain,19.10,Injection site reaction,19.10,Injection site swelling,19.10
+677139,Neck pain,19.10,Pain,19.10,Pain in extremity,19.10,Rash macular,19.10,,
+677140,Dyspnoea,19.10,Hypoaesthesia,19.10,Neuralgic amyotrophy,19.10,Pain in extremity,19.10,,
+677141,Dizziness,19.10,Injection site pain,19.10,Nausea,19.10,Pain,19.10,Pyrexia,19.10
+677142,Deafness unilateral,19.10,Pyrexia,19.10,,,,,,
+677146,Musculoskeletal pain,19.10,Tendonitis,19.10,Vaccination complication,19.10,,,,
+677148,Product packaging quantity issue,19.10,,,,,,,,
+677149,Hypoaesthesia,19.10,Injection site pain,19.10,Loss of consciousness,19.10,Nerve compression,19.10,Nerve conduction studies abnormal,19.10
+677149,Paraesthesia,19.10,Sleep disorder,19.10,X-ray limb normal,19.10,,,,
+677152,Injection site joint movement impairment,19.10,Injection site pain,19.10,,,,,,
+677153,Pigmentation disorder,19.10,,,,,,,,
+677155,Musculoskeletal pain,19.10,,,,,,,,
+677158,Diarrhoea,19.10,Rash papular,19.10,Urticaria,19.10,,,,
+677162,Dyspnoea,19.10,Pharyngeal oedema,19.10,,,,,,
+677164,Immediate post-injection reaction,19.10,Loss of consciousness,19.10,Tremor,19.10,,,,
+677168,Blood test normal,19.10,Dizziness,19.10,Vertigo,19.10,Vomiting,19.10,,
+677169,Drug administered at inappropriate site,19.10,Mobility decreased,19.10,Musculoskeletal pain,19.10,Pain,19.10,Pain,19.10
+677170,Abdominal pain upper,19.10,Arthralgia,19.10,Arthralgia,19.10,Diarrhoea,19.10,Eye pain,19.10
+677170,Headache,19.10,Influenza,19.10,Lymphadenopathy,19.10,Muscle fatigue,19.10,Muscular weakness,19.10
+677170,Myalgia,19.10,Nausea,19.10,Oropharyngeal pain,19.10,Pain,19.10,Pain,19.10
+677170,Pain in extremity,19.10,Wheezing,19.10,,,,,,
+677171,Insomnia,19.10,Mobility decreased,19.10,Pain in extremity,19.10,,,,
+677172,Nasopharyngitis,19.10,Pyrexia,19.10,Rash generalised,19.10,,,,
+677174,Anaphylactic shock,19.10,Cyanosis,19.10,Dizziness,19.10,Dysgeusia,19.10,Dyspnoea,19.10
+677174,Euphoric mood,19.10,Feeling abnormal,19.10,Feeling drunk,19.10,Heart rate increased,19.10,Hypoaesthesia,19.10
+677174,Hypoaesthesia,19.10,Oral discomfort,19.10,Retching,19.10,Swollen tongue,19.10,Swollen tongue,19.10
+677174,Vertigo,19.10,Vomiting,19.10,,,,,,
+677175,Burning sensation,19.10,Chest discomfort,19.10,Defaecation urgency,19.10,Dyspnoea,19.10,Facial pain,19.10
+677175,Headache,19.10,Neck pain,19.10,Oliguria,19.10,Paraesthesia,19.10,Paraesthesia,19.10
+677211,Allergy to vaccine,19.10,,,,,,,,
+677222,Headache,19.10,Pyrexia,19.10,,,,,,
+677223,Incorrect dose administered,19.10,,,,,,,,
+677240,Musculoskeletal pain,19.10,,,,,,,,
+677241,Injection site paraesthesia,19.10,Pain,19.10,Paraesthesia,19.10,,,,
+677243,Hypoaesthesia,19.10,Injection site erythema,19.10,Injection site hypoaesthesia,19.10,Injection site rash,19.10,Injection site warmth,19.10
+677243,Skin tightness,19.10,,,,,,,,
+677247,Underdose,19.10,,,,,,,,
+677248,Rash pruritic,19.10,,,,,,,,
+677249,Pyrexia,19.10,,,,,,,,
+677262,Pyrexia,19.10,Urticaria,19.10,,,,,,
+677264,Pain in extremity,19.10,,,,,,,,
+677301,Rash,19.10,Rash erythematous,19.10,,,,,,
+677304,Musculoskeletal pain,19.10,Pain,19.10,,,,,,
+677312,Injection site pain,19.10,Injection site reaction,19.10,Joint crepitation,19.10,Limb discomfort,19.10,Pain,19.10
+677324,Abasia,19.10,Alanine aminotransferase increased,19.10,Aspartate aminotransferase increased,19.10,Asthenia,19.10,Balance disorder,19.10
+677324,Blood alkaline phosphatase increased,19.10,Blood bilirubin increased,19.10,Cystoscopy,19.10,Decreased appetite,19.10,Drug eruption,19.10
+677324,Dysphonia,19.10,Dysstasia,19.10,Erythema multiforme,19.10,Hepatic enzyme increased,19.10,Influenza like illness,19.10
+677324,Influenza virus test negative,19.10,Laryngoscopy normal,19.10,Malaise,19.10,Nausea,19.10,Pain,19.10
+677324,Pyrexia,19.10,Sinus disorder,19.10,Tremor,19.10,Urinary tract infection,19.10,Urine analysis normal,19.10
+677324,Vomiting,19.10,Weight decreased,19.10,,,,,,
+677330,Malaise,19.10,Throat irritation,19.10,Throat tightness,19.10,,,,
+677332,Computerised tomogram head normal,19.10,Culture urine negative,19.10,Pyrexia,19.10,Seizure,19.10,,
+677334,Angiogram normal,19.10,Chest pain,19.10,Dizziness,19.10,Headache,19.10,Hypertension,19.10
+677334,Injection site pain,19.10,Neck pain,19.10,Pain in extremity,19.10,Ultrasound biliary tract,19.10,Ultrasound biliary tract normal,19.10
+677334,Ultrasound liver normal,19.10,Ultrasound pancreas normal,19.10,,,,,,
+677337,Headache,19.10,Neck pain,19.10,Pain in extremity,19.10,,,,
+677339,Influenza,19.10,Vaccination failure,19.10,,,,,,
+677340,Erythema,19.10,Peripheral swelling,19.10,Pyrexia,19.10,Tenderness,19.10,,
+677342,Throat tightness,19.10,,,,,,,,
+677343,Chills,19.10,Decreased appetite,19.10,Hypersomnia,19.10,Pyrexia,19.10,Skin exfoliation,19.10
+677343,Vaccination site discolouration,19.10,Vaccination site rash,19.10,Viral infection,19.10,,,,
+677345,Discomfort,19.10,Joint range of motion decreased,19.10,Pain,19.10,Paraesthesia,19.10,,
+677347,Activities of daily living impaired,19.10,Dizziness,19.10,Dysgeusia,19.10,Dyspepsia,19.10,Headache,19.10
+677347,Inflammation,19.10,Malaise,19.10,Migraine,19.10,Nausea,19.10,Paraesthesia,19.10
+677347,Pruritus generalised,19.10,,,,,,,,
+677359,Injection site induration,19.10,Injection site pain,19.10,Injection site pruritus,19.10,,,,
+677363,Headache,19.10,Pain,19.10,Pyrexia,19.10,Rash,19.10,Swelling,19.10
+677364,Body temperature increased,19.10,Endotracheal intubation,19.10,Irritability,19.10,Respiratory depression,19.10,Seizure,19.10
+677378,Injection site pain,19.10,Pain,19.10,,,,,,
+677387,Chills,19.10,Influenza like illness,19.10,Nausea,19.10,Urticaria,19.10,,
+677389,Diarrhoea,19.10,Influenza like illness,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10
+677389,Pain,19.10,Pyrexia,19.10,,,,,,
+677398,Pallor,19.10,Skin discolouration,19.10,,,,,,
+677399,Chest pain,19.10,Dizziness,19.10,Dyspnoea,19.10,Feeling abnormal,19.10,Feeling abnormal,19.10
+677399,Laboratory test,19.10,Palpitations,19.10,,,,,,
+677400,Pain,19.10,,,,,,,,
+677420,Drug administered at inappropriate site,19.10,Joint range of motion decreased,19.10,Pain,19.10,,,,
+677425,Injection site discolouration,19.10,Injection site erythema,19.10,Injection site swelling,19.10,Injection site warmth,19.10,,
+677432,Mobility decreased,19.10,Pain,19.10,,,,,,
+677445,Computerised tomogram,19.10,Laboratory test,19.10,Seizure,19.10,,,,
+677457,Paraesthesia,19.10,,,,,,,,
+677464,Loss of consciousness,19.10,Muscle twitching,19.10,,,,,,
+677471,Arthropathy,19.10,Autoimmune disorder,19.10,Eye disorder,19.10,Lung disorder,19.10,Pain,19.10
+677471,Renal disorder,19.10,Sinus disorder,19.10,,,,,,
+677473,Epilepsy,19.10,Seizure,19.10,,,,,,
+677475,Facial paralysis,19.10,Facial paralysis,19.10,,,,,,
+677491,Petechiae,19.10,Rash,19.10,,,,,,
+677508,Blood test,19.10,Computerised tomogram,19.10,Dyspnoea,19.10,Oxygen saturation decreased,19.10,Panic attack,19.10
+677508,X-ray,19.10,,,,,,,,
+677513,Chills,19.10,Headache,19.10,Injection site erythema,19.10,Injection site streaking,19.10,Tremor,19.10
+677513,Vaccination site swelling,19.10,,,,,,,,
+677514,Incorrect dose administered,19.10,,,,,,,,
+677515,Feeling hot,19.10,Nausea,19.10,Pain,19.10,Pain of skin,19.10,Pyrexia,19.10
+677515,Vomiting,19.10,,,,,,,,
+677518,Blister,19.10,Pyrexia,19.10,Scab,19.10,,,,
+677532,Pyrexia,19.10,Vomiting,19.10,,,,,,
+677535,Full blood count,19.10,Rash,19.10,Rash generalised,19.10,,,,
+677536,Abdominal discomfort,19.10,Abdominal pain,19.10,Constipation,19.10,Discomfort,19.10,Erythema,19.10
+677536,Faeces discoloured,19.10,Middle insomnia,19.10,Mucous stools,19.10,Urticaria,19.10,,
+677543,Cellulitis,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Injection site warmth,19.10
+677544,Cellulitis,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Injection site warmth,19.10
+677545,Cellulitis,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Injection site warmth,19.10
+677547,Feeling hot,19.10,Flushing,19.10,Hyperhidrosis,19.10,Injection site erythema,19.10,Pruritus,19.10
+677547,Rash,19.10,Rash,19.10,,,,,,
+677564,Injection site erythema,19.10,Injection site swelling,19.10,,,,,,
+677569,Pain in extremity,19.10,,,,,,,,
+677572,Injection site erythema,19.10,Swelling face,19.10,,,,,,
+677574,Rash maculo-papular,19.10,,,,,,,,
+677575,Blindness,19.10,Eye pain,19.10,Nuclear magnetic resonance imaging brain,19.10,Optic neuritis,19.10,,
+677596,Burning sensation,19.10,Contusion,19.10,Pain,19.10,Paraesthesia,19.10,Skin warm,19.10
+677631,Fatigue,19.10,Headache,19.10,Injection site haematoma,19.10,Nausea,19.10,Vomiting,19.10
+677638,Eye swelling,19.10,,,,,,,,
+677643,Cellulitis,19.10,Injection site pruritus,19.10,,,,,,
+677644,Erythema,19.10,Pruritus,19.10,,,,,,
+677649,Blindness,19.10,Nausea,19.10,Vomiting,19.10,,,,
+677651,Myalgia,19.10,Rash,19.10,Rhinorrhoea,19.10,,,,
+677652,Pyrexia,19.10,Rash,19.10,,,,,,
+677665,Death,19.10,,,,,,,,
+677675,Ageusia,19.10,Ocular hyperaemia,19.10,Rhinorrhoea,19.10,,,,
+677677,Alopecia,19.10,Alopecia,19.10,,,,,,
+677679,Headache,19.10,Mobility decreased,19.10,Nausea,19.10,Peripheral swelling,19.10,Renal pain,19.10
+677679,Swelling face,19.10,Urinary tract infection,19.10,,,,,,
+677680,Apnoea,19.10,Generalised tonic-clonic seizure,19.10,Laboratory test,19.10,Lumbar puncture,19.10,Resuscitation,19.10
+677680,X-ray,19.10,,,,,,,,
+677681,Injection site induration,19.10,Injection site irritation,19.10,Injection site pain,19.10,Injection site rash,19.10,Injection site warmth,19.10
+677699,Blood test normal,19.10,Gastrointestinal disorder,19.10,Pain,19.10,Respiratory disorder,19.10,,
+677700,Blood pressure increased,19.10,Breast pain,19.10,Breast swelling,19.10,Epistaxis,19.10,Erythema,19.10
+677700,Formication,19.10,Paraesthesia,19.10,Peripheral swelling,19.10,Pruritus,19.10,Pruritus,19.10
+677700,Throat irritation,19.10,,,,,,,,
+677702,Diarrhoea,19.10,Hyperhidrosis,19.10,Nausea,19.10,Tremor,19.10,,
+677706,Injection site erythema,19.10,Injection site swelling,19.10,Pyrexia,19.10,,,,
+677707,Crying,19.10,Cyanosis,19.10,Hypotonia,19.10,Musculoskeletal stiffness,19.10,Pallor,19.10
+677707,Unresponsive to stimuli,19.10,,,,,,,,
+677712,Nasopharyngitis,19.10,Rhinorrhoea,19.10,,,,,,
+677713,Medication error,19.10,Nasopharyngitis,19.10,Rhinorrhoea,19.10,,,,
+677714,Nasopharyngitis,19.10,Rhinorrhoea,19.10,,,,,,
+677721,Abasia,19.10,Allergy to vaccine,19.10,Anal incontinence,19.10,Asthenia,19.10,Body temperature increased,19.10
+677721,Cognitive disorder,19.10,Confusional state,19.10,Diarrhoea,19.10,Eye swelling,19.10,Eye swelling,19.10
+677721,Fall,19.10,Urinary incontinence,19.10,,,,,,
+677723,Anosmia,19.10,Endoscopy,19.10,Hyposmia,19.10,Laboratory test,19.10,,
+677724,Fatigue,19.10,Pruritus,19.10,Urticaria,19.10,,,,
+677729,Abdominal pain,19.10,Allergy to vaccine,19.10,Asthma,19.10,Drug hypersensitivity,19.10,Ear pain,19.10
+677729,Gait disturbance,19.10,Hypersensitivity,19.10,Malaise,19.10,Migraine,19.10,Muscle spasms,19.10
+677729,Neuropathy peripheral,19.10,,,,,,,,
+677731,Feeling hot,19.10,Pain,19.10,Rash erythematous,19.10,Vaccination site reaction,19.10,,
+677732,Musculoskeletal pain,19.10,Musculoskeletal pain,19.10,,,,,,
+677734,Injection site pain,19.10,Nuclear magnetic resonance imaging,19.10,Pain,19.10,X-ray limb,19.10,,
+677735,Injection site erythema,19.10,Rash,19.10,Rash,19.10,Rash papular,19.10,,
+677736,Injected limb mobility decreased,19.10,Injection site pain,19.10,Pain,19.10,Sleep disorder,19.10,,
+677737,Fatigue,19.10,Hostility,19.10,Pain,19.10,,,,
+677739,Erythema,19.10,Swelling,19.10,,,,,,
+677740,Activities of daily living impaired,19.10,Impaired driving ability,19.10,Injection site joint pain,19.10,Injection site pain,19.10,,
+677741,Pyrexia,19.10,Rash,19.10,Rash erythematous,19.10,Rash maculo-papular,19.10,Rash pruritic,19.10
+677743,Mobility decreased,19.10,,,,,,,,
+677744,Abasia,19.10,Chills,19.10,Dizziness,19.10,Fatigue,19.10,Feeling abnormal,19.10
+677744,Gait disturbance,19.10,Injection site pain,19.10,Migraine,19.10,Mobility decreased,19.10,Muscle spasms,19.10
+677744,Musculoskeletal stiffness,19.10,Pain,19.10,Pain in extremity,19.10,Pyrexia,19.10,Rash,19.10
+677744,Sleep disorder,19.10,Tenderness,19.10,,,,,,
+677746,Blood pressure increased,19.10,Blood test,19.10,Chest pain,19.10,Computerised tomogram,19.10,Eyelid function disorder,19.10
+677746,Facial paralysis,19.10,Facial paralysis,19.10,Headache,19.10,Heart rate increased,19.10,Hypoaesthesia,19.10
+677746,Loss of consciousness,19.10,Lumbar puncture,19.10,Nausea,19.10,Neuralgia,19.10,Nuclear magnetic resonance imaging,19.10
+677746,Pain in extremity,19.10,Palpitations,19.10,Paraesthesia,19.10,Paraesthesia,19.10,Paraesthesia oral,19.10
+677746,Scan with contrast,19.10,Syncope,19.10,Vitamin B12 deficiency,19.10,,,,
+677749,Decreased eye contact,19.10,Gianotti-Crosti syndrome,19.10,Insomnia,19.10,Irritability,19.10,Pyrexia,19.10
+677749,Rash generalised,19.10,Unresponsive to stimuli,19.10,,,,,,
+677755,Injection site cellulitis,19.10,Injection site inflammation,19.10,Injection site swelling,19.10,,,,
+677756,Injection site cellulitis,19.10,Injection site inflammation,19.10,Injection site swelling,19.10,,,,
+677777,Fatigue,19.10,Hypoaesthesia,19.10,Hypoaesthesia,19.10,Injection site erythema,19.10,Injection site pain,19.10
+677777,Muscular weakness,19.10,Muscular weakness,19.10,Pyrexia,19.10,,,,
+677779,Seizure,19.10,Syncope,19.10,Syncope,19.10,,,,
+677781,Nuclear magnetic resonance imaging,19.10,Pain,19.10,Pain in extremity,19.10,X-ray,19.10,,
+677803,Swelling face,19.10,Throat irritation,19.10,Urticaria,19.10,,,,
+677804,Blister,19.10,Crying,19.10,Eye swelling,19.10,Lip haemorrhage,19.10,Lip swelling,19.10
+677804,Ocular hyperaemia,19.10,Rash,19.10,Rash erythematous,19.10,Skin exfoliation,19.10,Staphylococcal scalded skin syndrome,19.10
+677806,Injection site pain,19.10,X-ray,19.10,,,,,,
+677808,Cognitive disorder,19.10,Vomiting,19.10,,,,,,
+677811,Injection site erythema,19.10,Injection site induration,19.10,Injection site pruritus,19.10,Injection site warmth,19.10,,
+677815,Anogenital warts,19.10,Chemotherapy,19.10,Human papilloma virus test positive,19.10,Leukaemia in remission,19.10,Lymphocytic leukaemia,19.10
+677815,Myeloid leukaemia,19.10,Papilloma viral infection,19.10,,,,,,
+677836,Pneumonia,19.10,,,,,,,,
+677839,Dermatitis contact,19.10,Eczema,19.10,Pyrexia,19.10,Rash,19.10,,
+677840,Arthralgia,19.10,Guillain-Barre syndrome,19.10,Muscular weakness,19.10,Oral mucosal blistering,19.10,Pyrexia,19.10
+677840,Rash erythematous,19.10,Skin infection,19.10,Testicular disorder,19.10,,,,
+677841,Eczema,19.10,Insomnia,19.10,Pruritus,19.10,Rash generalised,19.10,,
+677843,Pain,19.10,Pain in extremity,19.10,,,,,,
+677850,Epilepsy,19.10,Mental disorder,19.10,Neurological symptom,19.10,Seizure,19.10,,
+677855,Rash generalised,19.10,,,,,,,,
+677856,Facial paralysis,19.10,Hypoaesthesia,19.10,,,,,,
+677857,Hypersensitivity,19.10,Hypoaesthesia oral,19.10,Pruritus,19.10,Pruritus,19.10,Rash erythematous,19.10
+677857,Throat tightness,19.10,,,,,,,,
+677859,Angioedema,19.10,Face oedema,19.10,Pruritus,19.10,Swelling,19.10,,
+677861,Abasia,19.10,Dysstasia,19.10,Muscular weakness,19.10,,,,
+677862,Altered state of consciousness,19.10,Cough,19.10,Productive cough,19.10,Retching,19.10,,
+677864,Injected limb mobility decreased,19.10,Injection site pain,19.10,,,,,,
+677868,Injection site swelling,19.10,Nausea,19.10,Pyrexia,19.10,,,,
+677870,Electroencephalogram abnormal,19.10,Posture abnormal,19.10,Tremor,19.10,Vomiting,19.10,,
+677873,Injection site swelling,19.10,,,,,,,,
+677874,Injection site erythema,19.10,Injection site pain,19.10,Injection site reaction,19.10,Injection site warmth,19.10,Nervousness,19.10
+677874,Urticaria,19.10,,,,,,,,
+677876,Peripheral swelling,19.10,Pyrexia,19.10,Skin discolouration,19.10,,,,
+677878,Injection site nodule,19.10,,,,,,,,
+677879,Discomfort,19.10,Erythema,19.10,Induration,19.10,Pruritus,19.10,Skin warm,19.10
+677881,Erythema,19.10,Pruritus,19.10,,,,,,
+677882,Blood immunoglobulin E increased,19.10,C-reactive protein increased,19.10,Full blood count normal,19.10,Metabolic function test normal,19.10,Peripheral swelling,19.10
+677882,Red blood cell sedimentation rate increased,19.10,Type IV hypersensitivity reaction,19.10,,,,,,
+677886,Guillain-Barre syndrome,19.10,Intensive care,19.10,,,,,,
+677914,Blood test,19.10,Fall,19.10,Musculoskeletal stiffness,19.10,Unresponsive to stimuli,19.10,,
+677916,Death,19.10,,,,,,,,
+677920,Dehydration,19.10,Gastroenteritis,19.10,,,,,,
+677923,Abasia,19.10,Injection site swelling,19.10,Mobility decreased,19.10,,,,
+677925,Influenza,19.10,,,,,,,,
+677926,Chapped lips,19.10,Electroencephalogram normal,19.10,Local reaction,19.10,Rash,19.10,,
+677927,Incorrect product storage,19.10,No adverse event,19.10,,,,,,
+677943,Erythema,19.10,Induration,19.10,Injection site pain,19.10,Pain,19.10,Pain in extremity,19.10
+677943,Skin warm,19.10,,,,,,,,
+677944,Injection site coldness,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,,
+677955,Injection site pain,19.10,,,,,,,,
+677959,Pruritus,19.10,Pruritus,19.10,Pruritus,19.10,Pruritus,19.10,,
+677961,Blister,19.10,Pruritus,19.10,Pruritus,19.10,Pruritus,19.10,Skin burning sensation,19.10
+677961,Urticaria,19.10,,,,,,,,
+677964,Injection site erythema,19.10,Injection site pain,19.10,Injection site plaque,19.10,Red blood cell sedimentation rate normal,19.10,,
+677965,Headache,19.10,Injection site erythema,19.10,Injection site swelling,19.10,Injection site warmth,19.10,,
+677966,Pain,19.10,,,,,,,,
+677969,Erythema,19.10,Swelling,19.10,,,,,,
+677973,Erythema,19.10,Joint range of motion decreased,19.10,Peripheral swelling,19.10,Pyrexia,19.10,,
+677974,Dizziness,19.10,Fatigue,19.10,Headache,19.10,Musculoskeletal stiffness,19.10,Pain,19.10
+677974,Pyrexia,19.10,Swelling,19.10,,,,,,
+677975,Dyskinesia,19.10,Fall,19.10,Nausea,19.10,Seizure,19.10,Unresponsive to stimuli,19.10
+677976,Injection site erythema,19.10,Injection site swelling,19.10,Nausea,19.10,,,,
+677977,Body temperature increased,19.10,Injection site erythema,19.10,Injection site swelling,19.10,,,,
+677978,Eye swelling,19.10,Influenza like illness,19.10,Pharyngeal oedema,19.10,Swelling face,19.10,,
+677982,Pruritus,19.10,Rash erythematous,19.10,Skin test,19.10,,,,
+677984,Injection site pain,19.10,,,,,,,,
+677985,Injection site swelling,19.10,,,,,,,,
+677987,Amylase,19.10,Blood lactic acid,19.10,Blood magnesium,19.10,Chest X-ray,19.10,Computerised tomogram abdomen,19.10
+677987,Computerised tomogram head,19.10,Computerised tomogram pelvis,19.10,Decreased appetite,19.10,Dizziness,19.10,Hypoaesthesia,19.10
+677987,Insomnia,19.10,Laboratory test,19.10,Thyroid function test,19.10,Urine analysis,19.10,X-ray limb,19.10
+677998,Bradycardia,19.10,Hypertension,19.10,,,,,,
+678006,Death,19.10,,,,,,,,
+678007,Injection site erythema,19.10,Pyrexia,19.10,,,,,,
+678021,Asthenia,19.10,Inflammation,19.10,Joint range of motion decreased,19.10,Musculoskeletal pain,19.10,Musculoskeletal stiffness,19.10
+678025,Incorrect product storage,19.10,No adverse event,19.10,,,,,,
+678044,Miller Fisher syndrome,19.10,Plasmapheresis,19.10,,,,,,
+678056,Blood test normal,19.10,Vomiting,19.10,,,,,,
+678065,Intussusception,19.10,,,,,,,,
+678067,Cyanosis,19.10,Electroencephalogram,19.10,Epilepsy,19.10,Fatigue,19.10,Generalised tonic-clonic seizure,19.10
+678067,Nuclear magnetic resonance imaging,19.10,Pyrexia,19.10,Seizure,19.10,,,,
+678069,Pain in extremity,19.10,,,,,,,,
+678070,Pain in extremity,19.10,,,,,,,,
+678071,Pain in extremity,19.10,,,,,,,,
+678072,Immunodeficiency,19.10,Injection site erythema,19.10,Injection site pain,19.10,Injection site swelling,19.10,Pain,19.10
+678072,Pneumonia,19.10,Pyrexia,19.10,Swelling,19.10,,,,
+678074,Injection site pain,19.10,Myalgia,19.10,Periarthritis,19.10,,,,
+678078,Chills,19.10,Dizziness,19.10,Headache,19.10,Influenza virus test negative,19.10,Pyrexia,19.10
+678079,Activities of daily living impaired,19.10,Mobility decreased,19.10,Musculoskeletal pain,19.10,Myositis,19.10,Pain in extremity,19.10
+678079,X-ray abnormal,19.10,,,,,,,,
+678082,Injection site erythema,19.10,Injection site nodule,19.10,Injection site swelling,19.10,Limb discomfort,19.10,,
+678083,Dizziness,19.10,Hyperhidrosis,19.10,Muscular weakness,19.10,Pallor,19.10,,
+678086,Loss of consciousness,19.10,,,,,,,,
+678088,Injected limb mobility decreased,19.10,Injection site pain,19.10,,,,,,
+678089,Blood culture,19.10,Blood glucose,19.10,Cyanosis,19.10,Dyskinesia,19.10,Electrocardiogram,19.10
+678089,Electroencephalogram,19.10,Lumbar puncture,19.10,Nuclear magnetic resonance imaging brain,19.10,Phenylketonuria,19.10,Respiratory arrest,19.10
+678089,Resuscitation,19.10,Seizure,19.10,Ultrasound skull,19.10,Urine analysis,19.10,,
+678090,Burning sensation,19.10,Computerised tomogram normal,19.10,Injection site pain,19.10,Injection site pain,19.10,Injection site swelling,19.10
+678090,Injection site warmth,19.10,Musculoskeletal pain,19.10,Pain in extremity,19.10,X-ray limb normal,19.10,,
+678153,Hyperhidrosis,19.10,Vomiting,19.10,,,,,,
+678205,Cerebrovascular accident,19.10,Nuclear magnetic resonance imaging abnormal,19.10,,,,,,
+678208,Brachial plexopathy,19.10,Burning sensation,19.10,Injection site pain,19.10,Neuralgic amyotrophy,19.10,Paraesthesia,19.10
+678208,Skin warm,19.10,Swelling,19.10,,,,,,
+678209,Abasia,19.10,Asthenia,19.10,Dysgeusia,19.10,Fatigue,19.10,Feeding disorder,19.10
+678209,Malaise,19.10,,,,,,,,
+678210,Drooling,19.10,Eye movement disorder,19.10,Hyporesponsive to stimuli,19.10,Musculoskeletal stiffness,19.10,Respiratory arrest,19.10
+678341,Dizziness,19.10,Dysgeusia,19.10,,,,,,
