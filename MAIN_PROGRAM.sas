@@ -5,7 +5,7 @@ option mprint spool nocenter ls = max ps = 25;
 
 
 /*Specify where you would like to store the datasets*/
-libname lib "&path_to_repository.\SAS dataset";
+libname lib "&path_to_repository.\SAS datasets";
 
 /* Include APPENDIX*/
 %include "&path_to_repository.\Appendix.sas";
